@@ -9,7 +9,11 @@ Aplicativo Flutter para cálculo de IMC com foco em simplicidade e usabilidade.
 > Substitua este bloco pelo link, embed ou GIF da demonstração quando estiver pronto.
 
 ```text
-[ inserir aqui o vídeo de apresentação ]
+
+
+https://github.com/user-attachments/assets/68ce828e-556c-406a-bf94-c627aea33a8e
+
+
 ```
 
 ## Sobre o projeto
