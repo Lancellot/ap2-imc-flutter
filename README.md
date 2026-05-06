@@ -1,17 +1,39 @@
-# flutter_application_1
+# IMC Flutter
 
-A new Flutter project.
+Aplicativo Flutter para cálculo de IMC com foco em simplicidade e usabilidade.
 
-## Getting Started
+## Vídeo de apresentação
 
-This project is a starting point for a Flutter application.
+> Espaço reservado para o vídeo do projeto.
+>
+> Substitua este bloco pelo link, embed ou GIF da demonstração quando estiver pronto.
 
-A few resources to get you started if this is your first Flutter project:
+```text
+[ inserir aqui o vídeo de apresentação ]
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Sobre o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Este app permite calcular o IMC de forma rápida, exibindo o resultado de maneira clara e objetiva.
+
+## Funcionalidades
+
+- Entrada de peso e altura
+- Cálculo automático do IMC
+- Exibição da classificação do resultado
+- Interface simples e direta
+
+## Como executar
+
+1. Instale as dependências do Flutter.
+2. Execute o projeto com `flutter run`.
+3. Teste o fluxo principal informando peso e altura.
+
+## Recursos úteis
+
+- [Documentação oficial do Flutter](https://docs.flutter.dev/)
+- [Guia de primeiros passos](https://docs.flutter.dev/get-started/codelab)
+
+## Observação
+
+Se quiser, eu também posso adaptar este README para um formato mais acadêmico, mais bonito para GitHub, ou já deixar com embed de YouTube pronto.
